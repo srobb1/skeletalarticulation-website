@@ -1,0 +1,6 @@
+.DS_Store
+# never commit the WordPress export or anything pulled from it
+*.wpress
+*.wpress.gz
+*.sql
+db.json
